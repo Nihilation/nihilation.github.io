@@ -192,9 +192,9 @@ h2 {
     transform: scale(1.2);
 }
 main .grab-container {
+    display: block;
     max-width: 60vw;
     max-height: 60vh;
-    display: block;
 }
 .inner-container header .return {
     display: flex;
