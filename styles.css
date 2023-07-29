@@ -191,3 +191,14 @@ h2 {
 .inner-container header ul .linkedin:hover {
     transform: scale(1.2);
 }
+main .grab-container {
+    max-width: 60vw;
+    max-height: 60vh;
+    display: block;
+}
+.inner-container header .return {
+    display: flex;
+    position: relative;
+    justify-content: space-between;
+    align-items: flex-start;
+}
